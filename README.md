@@ -16,7 +16,7 @@ Real-time Rock Paper Scissors using \*\*hand gesture recognition\*\*! No buttons
 
 \- ✅ 2-second hold to play (prevents spam)
 
-\- ✅ Smooth 30+ FPS gameplay
+\- ✅ Smooth 30+ FPS gameplay.
 
 
 
